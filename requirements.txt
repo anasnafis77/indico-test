@@ -1,0 +1,5 @@
+tensforflow
+polars
+scikit-learn
+Pillow
+matplotlib
